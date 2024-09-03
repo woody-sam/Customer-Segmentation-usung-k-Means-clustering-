@@ -34,6 +34,19 @@ Customer segmentation would thus provide relevant promotions, recommendations of
 ![image](https://github.com/user-attachments/assets/9f87f663-9dcb-4dae-9c5c-98d28dbf9deb)
 
 
+DATASET
+
+The dataset is acquired from Kaggle and the link is given below:
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+The Dataset consists of following five features of 200 Customers:
+1. Customer ID: Unique ID assigned to the customer.
+2. Gender: Gender of the customer.
+3. Age: Age of the customer.
+4. Annual Income(k$): Annual Income of the customer.
+5. Spending Score(1-100): Score assigned by the mall based on customer behaviour and spending nature.
+
+
 
 
 
