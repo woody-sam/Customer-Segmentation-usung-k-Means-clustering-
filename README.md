@@ -31,6 +31,8 @@ It could categorize retail buyers into groups such as high-income, luxury shoppe
 
 Customer segmentation would thus provide relevant promotions, recommendations of products, or loyalty programs that would heighten customer activity and satisfaction.
 
+![image](https://github.com/user-attachments/assets/9f87f663-9dcb-4dae-9c5c-98d28dbf9deb)
+
 
 
 
